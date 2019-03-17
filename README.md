@@ -4,6 +4,7 @@ Informations:
 La programmation se fera à l'aide de l'ide Arduino en C.
 
 - Fonctionnement
+
 La partie SETUP permet de faire les initialisations nécessaires au paramétrage.
 Le code est exécuté une seule fois au démarrage et à chaque redémarrage.
 
