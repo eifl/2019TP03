@@ -24,3 +24,9 @@ Les E/S standardes vont de D2 à D13. D0, D1, D13 sont particulières.
 3) Il faut ensuite lire ou écrire sur les E/S utilisées.
 4) Les temporisations (pause) se font avec Delay(n), n en milliseconde.
 5) Les 2 boutons en haut de l'IDE servent à compiler pour l'un et compiler et téléverser pour l'autre.
+
+- Objectif
+
+Lire le fichier objectif.pdf
+
+FL
